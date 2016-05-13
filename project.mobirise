@@ -11,7 +11,8 @@
     "publishType": "local",
     "publishPath": "file:///Users/admin/Desktop/publ",
     "path": "file:///Users/admin/Desktop/PORTFOLIO",
-    "favicon": ""
+    "favicon": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77732964-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "Tekeningen.html": {
@@ -175,7 +176,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2016 Zsa-Zsa Verschaeve"
+          "text": "2016 Zsa-Zsa Verschaeve<br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br>"
         },
         {
           "_name": "header3",
@@ -466,7 +467,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2016 Zsa-Zsa Verschaeve"
+          "text": "2016 Zsa-Zsa Verschaeve<br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br>"
         }
       ]
     },
@@ -528,7 +529,7 @@
             "H1": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
+              "color": "#475577"
             },
             "P": {
               "color": "#000000"
@@ -573,12 +574,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2016 Zsa-Zsa Verschaeve"
+          "text": "2016 Zsa-Zsa Verschaeve<br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br>"
         },
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#000000",
+              "color": "#475577",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -638,11 +639,16 @@
           "headerAlign": "left",
           "title": "OVER MEZELF",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "blablabla",
+          "text": "<p>&lt;script&gt;</p><p>&nbsp; (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){</p><p>&nbsp; (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),</p><p>&nbsp; m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)</p><p>&nbsp; })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');</p><p><br></p><p>&nbsp; ga('create', 'UA-77732964-1', 'auto');</p><p>&nbsp; ga('send', 'pageview');</p><p><br></p><p>&lt;/script&gt;</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#475577"
+            }
+          },
           "_anchor": "social-buttons2-7",
           "_params": {
             "paddingTop": 3,

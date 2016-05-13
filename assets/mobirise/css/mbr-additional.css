@@ -107,13 +107,13 @@
 }
 #header1-1 H1 {
   font-family: 'Open Sans', sans-serif;
-  color: #000000;
+  color: #475577;
 }
 #header1-1 P {
   color: #000000;
 }
 #msg-box5-20 .mbr-header__text {
-  color: #000000;
+  color: #475577;
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-20 .mbr-header__subtext {
@@ -124,4 +124,7 @@
 }
 #msg-box5-20 .mbr-article P {
   font-family: 'Open Sans', sans-serif;
+}
+#social-buttons2-7 .mbr-header__text {
+  color: #475577;
 }
