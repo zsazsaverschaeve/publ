@@ -30,7 +30,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#c1c1c1"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -43,7 +43,7 @@
           },
           "_anchor": "menu-26",
           "_params": {
-            "color": "#cccccc",
+            "color": "#c1c1c1",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -114,7 +114,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/omgevallen-stoel-3425x2300-52-2000x1343-32.jpg",
                 "image": "@PROJECT_PATH@/assets/images/omgevallen-stoel-3425x2300-52.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "Type caption here",
@@ -145,6 +145,12 @@
                 "thumb": "@PROJECT_PATH@/assets/images/scan-4-2431x3438-40-2000x2828-30.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-4-2431x3438-40.jpg",
                 "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-21-2000x1414-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-21.jpg",
+                "active": true
               }
             ],
             "showText": false,
@@ -246,7 +252,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#c1c1c1"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -259,7 +265,7 @@
           },
           "_anchor": "menu-16",
           "_params": {
-            "color": "#cccccc",
+            "color": "#c1c1c1",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -481,7 +487,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#cccccc"
+              "background": "#c1c1c1"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -494,7 +500,7 @@
           },
           "_anchor": "menu-0",
           "_params": {
-            "color": "#cccccc",
+            "color": "#c1c1c1",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -532,7 +538,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lijn-met-rood-1024x768-43.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-67.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -545,12 +551,12 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "showButtons": true,
+            "showArrow": false
           },
           "title": "ZSA-ZSA VERSCHAEVE",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MEER INFO</a>"
         },
         {
           "_name": "footer1",
@@ -570,6 +576,72 @@
           "text": "2016 Zsa-Zsa Verschaeve"
         },
         {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-20",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/foto-over-mezelf-zwart-wit-960x641-36.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "OVER MEZELF",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "blablabla",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-7",
           "_params": {
@@ -578,7 +650,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f0f0f0",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
