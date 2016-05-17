@@ -131,28 +131,34 @@
 
 
 
-#ext_menu-20 .mbr-brand__name {
+
+
+#menu-20 .mbr-brand__name {
   font-size: 16px;
 }
-#ext_menu-20.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+#menu-20.mbr-navbar--stuck .mbr-navbar__section {
+  background: #c1c1c1;
 }
-#ext_menu-20 .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-20 .mbr-navbar__hamburger {
+#menu-20 .mbr-navbar__hamburger {
   color: #000000;
 }
-#ext_menu-20 .mbr-navbar__items a {
+#menu-20 .mbr-navbar__items a {
   font-family: 'Open Sans', sans-serif;
 }
-#ext_menu-20 .mbr-brand__name a {
+#header3-21 H3 {
   font-family: 'Open Sans', sans-serif;
 }
-#form1-24 .mbr-header__text {
-  color: #28324e;
+#header3-21 P {
   font-family: 'Open Sans', sans-serif;
 }
-#form1-24 .btn {
+#header3-22 H3 {
   font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#header3-25 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-25 H3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
 }
