@@ -93,19 +93,23 @@
 
 
 
+
 #ext_menu-29 .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-29.mbr-navbar--stuck .mbr-navbar__section {
-  background: #cccccc;
+  background: #ffffff;
 }
 #ext_menu-29 .mbr-navbar__section {
-  background: #cccccc;
+  background: #ffffff;
 }
 #ext_menu-29 .mbr-navbar__hamburger {
   color: #000000;
 }
 #ext_menu-29 .mbr-navbar__items a {
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-29 .mbr-brand__name a {
   font-family: 'Open Sans', sans-serif;
 }
 #header1-31 H1 {
@@ -120,6 +124,35 @@
   color: #ffffff;
 }
 #msg-box4-32 .mbr-article {
-  color: #ffffff;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+#ext_menu-20 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-20.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-20 .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-20 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#ext_menu-20 .mbr-navbar__items a {
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-20 .mbr-brand__name a {
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-24 .mbr-header__text {
+  color: #28324e;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-24 .btn {
   font-family: 'Open Sans', sans-serif;
 }
