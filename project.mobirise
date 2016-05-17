@@ -483,15 +483,17 @@
       },
       "components": [
         {
-          "_name": "menu",
+          "_inherit": "menu",
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#c1c1c1"
+              "background": "#cccccc"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#cccccc"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#000000"
             },
@@ -500,11 +502,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "menu-0",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-29",
           "_params": {
-            "color": "#c1c1c1",
+            "color": "#cccccc",
             "hamburgerColor": "#000000",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -513,34 +516,26 @@
           },
           "logo": {
             "image": {
+              "active": true,
               "src": "images/logo.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "active": true
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ZSA-ZSA VERSCHAEVE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GrafischOntwerp.html\">GRAFISCH ONTWERP</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Tekeningen.html\">TEKENINGEN</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"GrafischOntwerp.html\">Grafisch Ontwerp</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Tekeningen.html\">Tekeningen</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_styles": {
-            "H1": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#475577"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header1-1",
+          "_name": "header1",
+          "_anchor": "header1-31",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-67.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/abstract-liggend-3291x2327-1.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -554,33 +549,24 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "showArrow": false
+            "showArrow": true
           },
-          "title": "ZSA-ZSA VERSCHAEVE",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MEER INFO</a>"
+          "title": "Zsa-Zsa Verschaeve",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#msg-box4-32\" data-toolbar=\"-mbrBtnMove\">Meer info</a>",
+          "_styles": {
+            "H1": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#28324e"
+            }
+          }
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "2016 Zsa-Zsa Verschaeve<br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br>"
-        },
-        {
+          "_inherit": "msg-box5",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#475577",
+              "color": "#28324e",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -588,18 +574,16 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
-            },
-            ".mbr-article P": {
+              "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-20",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-32",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -620,51 +604,27 @@
           },
           "media": {
             "image": {
+              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/foto-over-mezelf-zwart-wit-960x641-36.jpg",
+              "src": "@PROJECT_PATH@/assets/images/foto-over-mezelf-zwart-wit-960x641-81.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
           "headerAlign": "left",
-          "title": "OVER MEZELF",
+          "title": "Zsa-Zsa Verschaeve",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&lt;script&gt;</p><p>&nbsp; (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){</p><p>&nbsp; (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),</p><p>&nbsp; m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)</p><p>&nbsp; })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');</p><p><br></p><p>&nbsp; ga('create', 'UA-77732964-1', 'auto');</p><p>&nbsp; ga('send', 'pageview');</p><p><br></p><p>&lt;/script&gt;</p><p><br></p><p><br></p>",
+          "text": "Studente aan Sint-Lucas Gent",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        },
-        {
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "social-buttons2-7",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/zsazsaa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/zsazsaverschaeve/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/zsazsaverschaev/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         }
       ]
     }

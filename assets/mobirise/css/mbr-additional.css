@@ -93,38 +93,33 @@
 
 
 
-#menu-0 .mbr-brand__name {
+#ext_menu-29 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #c1c1c1;
+#ext_menu-29.mbr-navbar--stuck .mbr-navbar__section {
+  background: #cccccc;
 }
-#menu-0 .mbr-navbar__hamburger {
+#ext_menu-29 .mbr-navbar__section {
+  background: #cccccc;
+}
+#ext_menu-29 .mbr-navbar__hamburger {
   color: #000000;
 }
-#menu-0 .mbr-navbar__items a {
+#ext_menu-29 .mbr-navbar__items a {
   font-family: 'Open Sans', sans-serif;
 }
-#header1-1 H1 {
+#header1-31 H1 {
   font-family: 'Open Sans', sans-serif;
-  color: #475577;
+  color: #28324e;
 }
-#header1-1 P {
-  color: #000000;
-}
-#msg-box5-20 .mbr-header__text {
-  color: #475577;
+#msg-box4-32 .mbr-header__text {
+  color: #28324e;
   font-family: 'Open Sans', sans-serif;
 }
-#msg-box5-20 .mbr-header__subtext {
+#msg-box4-32 .mbr-header__subtext {
   color: #ffffff;
 }
-#msg-box5-20 .mbr-article {
-  color: #000000;
-}
-#msg-box5-20 .mbr-article P {
+#msg-box4-32 .mbr-article {
+  color: #ffffff;
   font-family: 'Open Sans', sans-serif;
-}
-#social-buttons2-7 .mbr-header__text {
-  color: #475577;
 }
