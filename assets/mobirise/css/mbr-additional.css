@@ -76,10 +76,15 @@
 #slider2-18 P {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: left;
 }
 #header3-35 H3 {
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
+}
+#header3-35 P {
+  font-size: 10px;
 }
 #image2-19 SMALL {
   font-size: 22px;
@@ -89,6 +94,7 @@
 #image2-19 B {
   font-size: 20px;
 }
+
 
 
 
@@ -126,6 +132,10 @@
 #msg-box4-32 .mbr-article {
   color: #000000;
   font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+#msg-box4-32 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 
 #menu-21 .mbr-brand__name {
@@ -139,4 +149,7 @@
 }
 #menu-21 .mbr-navbar__items a {
   font-family: 'Open Sans', sans-serif;
+}
+#form1-28 .mbr-header__text {
+  color: #475577;
 }
