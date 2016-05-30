@@ -143,22 +143,37 @@
 
 
 
-#menu-19 .mbr-brand__name {
+
+
+#menu-24 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-19.mbr-navbar--stuck .mbr-navbar__section {
+#menu-24.mbr-navbar--stuck .mbr-navbar__section {
   background: #c1c1c1;
 }
-#menu-19 .mbr-navbar__hamburger {
+#menu-24 .mbr-navbar__hamburger {
   color: #000000;
 }
-#menu-19 .mbr-navbar__items a {
+#menu-24 .mbr-navbar__items a {
   font-family: 'Open Sans', sans-serif;
 }
-#header3-22 P {
+#header3-25 H3 {
   font-family: 'Open Sans', sans-serif;
 }
-#header3-22 H3 {
+#header3-25 P {
   font-family: 'Open Sans', sans-serif;
+}
+#header3-26 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+}
+#header3-26 H3 {
   font-size: 18px;
+}
+#header3-28 H3 {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-28 P {
+  font-size: 10px;
 }
