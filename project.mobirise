@@ -625,7 +625,7 @@
         {
           "_name": "gallery1",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": 3,
             "images": [
               {
