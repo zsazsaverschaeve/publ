@@ -10,7 +10,7 @@
     },
     "publishType": "local",
     "publishPath": "file:///Users/admin/Desktop/publ",
-    "path": "file:///Users/admin/Desktop/PORTFOLIO",
+    "path": "file:///Users/admin/Desktop/publ",
     "favicon": "@PROJECT_PATH@/assets/images/screenshot-640x329-80.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77732964-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "screenshot": "screenshot.png"
@@ -67,141 +67,6 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "header3-28",
-          "title": "TEKENINGEN",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "header3-36",
-          "title": "<br>MODEL TEKENEN",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_name": "gallery2",
-          "_params": {
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/lezend-meisje-stoel-2429x3375-4-2000x2779-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lezend-meisje-stoel-2429x3375-4.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/omgevallen-stoel-3425x2300-52-2000x1343-32.jpg",
-                "image": "@PROJECT_PATH@/assets/images/omgevallen-stoel-3425x2300-52.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/3x-rood-2480x3508-90-2000x2829-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3x-rood-2480x3508-90.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/lijn-met-rood-1024x768-58-1024x768-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lijn-met-rood-1024x768-58.jpg",
-                "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dreadlockman-3322x2110-45-2000x1270-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dreadlockman-3322x2110-45.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/oranje-liggend-3421x2480-55-2000x1450-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/oranje-liggend-3421x2480-55.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-4-2431x3438-40-2000x2828-30.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-4-2431x3438-40.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-21-2000x1414-32.jpg",
-                "image": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-21.jpg",
-                "active": false
-              }
-            ],
-            "showText": false,
-            "fullWidth": false,
-            "noGutter": false
-          },
-          "_anchor": "gallery2-29",
-          "articleLayout": true
-        },
-        {
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/meisje-blondine-1619x2480-55-1619x2480-30.jpg",
-                "image": "@PROJECT_PATH@/assets/images/meisje-blondine-1619x2480-55.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/972173-10200606035625967-710929591-n-673x960-30-673x960-98.jpg",
-                "image": "@PROJECT_PATH@/assets/images/972173-10200606035625967-710929591-n-673x960-30.jpg",
-                "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/afrika-girl-1689x2495-37-1689x2495-46.jpg",
-                "image": "@PROJECT_PATH@/assets/images/afrika-girl-1689x2495-37.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/man-zonnebril-2480x3508-60-2000x2829-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/man-zonnebril-2480x3508-60.jpg",
-                "active": false
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": true
-          },
-          "_anchor": "gallery1-20",
-          "articleLayout": false
-        },
-        {
           "_name": "footer1",
           "_anchor": "footer1-30",
           "_params": {
@@ -217,6 +82,45 @@
             "overlayColor": "#444444"
           },
           "text": "(c)&nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by/4.0/80x15.png\"></a>&nbsp;This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.<br>2016 Zsa-Zsa Verschaeve<br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><script><br>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br>  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br>  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br>  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');<br><br>  ga('create', 'UA-77732964-1', 'auto');<br>  ga('send', 'pageview');<br><br></script><br>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/afrika-girl-1689x2495-7-1689x2495-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afrika-girl-1689x2495-7.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/972173-10200606035625967-710929591-n-673x960-90-673x960-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/972173-10200606035625967-710929591-n-673x960-90.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/meisje-blondine-1619x2480-63-1619x2480-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meisje-blondine-1619x2480-63.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/man-zonnebril-2480x3508-2-2000x2829-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/man-zonnebril-2480x3508-2.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-18",
+          "articleLayout": false
         },
         {
           "_name": "header3",
