@@ -122,7 +122,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/3x-rood-2480x3508-90-2000x2829-82.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3x-rood-2480x3508-90.jpg",
-                "active": false
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -152,11 +152,11 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-21-2000x1414-32.jpg",
                 "image": "@PROJECT_PATH@/assets/images/abstract-liggend-3417x2416-21.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "noGutter": false
           },
           "_anchor": "gallery2-29",
@@ -705,6 +705,11 @@
         },
         {
           "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#475577"
+            }
+          },
           "_anchor": "form1-22",
           "_params": {
             "paddingTop": 3,
@@ -747,12 +752,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER</a>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#475577"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER</a>"
         }
       ]
     }
