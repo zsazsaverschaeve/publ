@@ -122,13 +122,13 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/3x-rood-2480x3508-90-2000x2829-82.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3x-rood-2480x3508-90.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/lijn-met-rood-1024x768-58-1024x768-86.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lijn-met-rood-1024x768-58.jpg",
-                "active": false
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -161,6 +161,45 @@
           },
           "_anchor": "gallery2-29",
           "articleLayout": true
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/meisje-blondine-1619x2480-55-1619x2480-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meisje-blondine-1619x2480-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/972173-10200606035625967-710929591-n-673x960-30-673x960-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/972173-10200606035625967-710929591-n-673x960-30.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/afrika-girl-1689x2495-37-1689x2495-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afrika-girl-1689x2495-37.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/man-zonnebril-2480x3508-60-2000x2829-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/man-zonnebril-2480x3508-60.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-20",
+          "articleLayout": false
         },
         {
           "_name": "footer1",
